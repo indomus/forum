@@ -9,4 +9,6 @@ Regole:
  
 3. Evitare gli screenshot di codice. Gli screenshot vanno utilizzati come extrema ratio.
    
-4. Siate educati. Non dovrebbe neanche essere necessario precisarlo. :)
+4. Siate educati. Non dovrebbe neanche essere necessario precisarlo. 😊
+
+5. Non siate permalosi.
